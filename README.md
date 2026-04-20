@@ -2,9 +2,22 @@
 
 Local speech-to-text CLI tool using faster-whisper.
 
+### **Say Goodbye to Transcription Limits and Privacy Risks.**
+
+Most online transcription services come with a catch: they only allow a few minutes for free, force you through tedious registration, or hide their best features behind expensive subscriptions. 
+
+`whisper-cli` is here to change that. Powered by **OpenAI’s world-class "Whisper" model**—specifically the high-performance **`faster-whisper`** implementation—you can now transcribe audio in over 99 languages completely **locally** on your own machine.
+
+- **Zero Cost**: No subscriptions, no hidden fees, no limits.
+- **Total Privacy**: Your data never leaves your device. Once the model is downloaded, you can even use it entirely offline.
+- **Uncompromising Speed**: Optimized to run efficiently on your hardware, whether you have a high-end GPU or a standard CPU.
+
+*Note: The script handles the model download for you automatically during the first run. No manual downloading required!*
+
 ## Features
 - Fully offline transcription
-- Japanese + multilingual support
+- OpenAI Whisper (faster-whisper) technology
+- Support for 99+ languages
 - TXT / SRT output
 - Timestamp support
 - Beginner-friendly CLI
