@@ -2,6 +2,8 @@
 
 Local speech-to-text CLI tool using faster-whisper.
 
+This work was inspired and forked from [whisper.cpp](https://github.com/ggml-org/whisper.cpp).
+
 ### **Say Goodbye to Transcription Limits and Privacy Risks.**
 
 Most online transcription services come with a catch: they only allow a few minutes for free, force you through tedious registration, or hide their best features behind expensive subscriptions. 
