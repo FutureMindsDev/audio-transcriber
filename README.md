@@ -2,7 +2,7 @@
 
 Local speech-to-text CLI tool using faster-whisper.
 
-This work was inspired and forked from [whisper.cpp](https://github.com/ggml-org/whisper.cpp).
+This work was inspired and forked from [whisper.cpp](https://github.com/ggml-org/whisper.cpp). For the best performance on Mac with Apple Silicon, please use the original work instead.
 
 ### **Say Goodbye to Transcription Limits and Privacy Risks.**
 

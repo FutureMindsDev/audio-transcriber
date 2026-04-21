@@ -2,7 +2,7 @@
 
 faster-whisper を使用したローカル音声文字起こし CLI ツールです。
 
-このプロジェクトは [whisper.cpp](https://github.com/ggml-org/whisper.cpp) から着想を得てフォークされたものです。
+このプロジェクトは [whisper.cpp](https://github.com/ggml-org/whisper.cpp) から着想を得てフォークされたものです。Apple Silicon 搭載の Mac で最高のパフォーマンスを得るには、代わりにオリジナルのプロジェクトを使用してください。
 
 ### **文字起こしの制限とプライバシーのリスクに、サヨナラを。**
 
